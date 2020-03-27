@@ -1,0 +1,5 @@
+num_set = set([0, 1, 3, 4, 5])
+num_set.remove(3)
+print(num_set)
+num_set.remove(5)
+print(num_set)
